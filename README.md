@@ -1,7 +1,10 @@
-👋 Hi, I'm Jathurshan
-🎓 BSc Cybersecurity student at SLIIT, Sri Lanka
-🔐 Interested in penetration testing & SOC analysis
-🏆 TryHackMe Top 15% | Hacker Rank | 59 rooms completed
-📜 ISC2 CC Certified
-🌱 Currently working through HTB modules & preparing for eJPT
-📫 rdjathurshan@gmail.com
+# Hi there, I'm Jathurshan 👋
+
+🎓 BSc (Hons) IT specialized in Cybersecurity @ SLIIT, Sri Lanka  
+🔐 Passionate about Penetration Testing, SOC Analysis & Offensive Security  
+🏆 TryHackMe — Top 15% Global | Hacker Rank | 59 Rooms Completed  
+📜 ISC2 Certified in Cybersecurity (CC)  
+🌱 Currently working through HTB Academy modules & preparing for eJPT  
+🛠️ Tools: Nmap, Wireshark, Metasploit, Burp Suite  
+📫 rdjathurshan@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/Jathurshan) | [TryHackMe](https://tryhackme.com/p/rdjathurshan)
