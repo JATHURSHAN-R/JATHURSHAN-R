@@ -7,4 +7,4 @@
 🌱 Currently working through HTB Academy modules & preparing for eJPT  
 🛠️ Tools: Nmap, Wireshark, Metasploit, Burp Suite  
 📫 rdjathurshan@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/Jathurshan) | [TryHackMe](https://tryhackme.com/p/rdjathurshan)
+🔗 [LinkedIn](www.linkedin.com/in/jathurshan-rasathurai) | [TryHackMe](https://tryhackme.com/p/rdjathurshan)
