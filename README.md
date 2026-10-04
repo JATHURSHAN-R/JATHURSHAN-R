@@ -2,7 +2,7 @@
 
 🎓 BSc (Hons) IT specialized in Cybersecurity @ SLIIT, Sri Lanka  
 🔐 Passionate about Penetration Testing, SOC Analysis & Offensive Security  
-🏆 TryHackMe — Top 15% Global | Hacker Rank | 59 Rooms Completed  
+🏆 TryHackMe — Top 2% Global | Hacker Rank | 59 Rooms Completed  
 📜 ISC2 Certified in Cybersecurity (CC)  
 🌱 Currently working through HTB Academy modules & preparing for eJPT  
 🛠️ Tools: Nmap, Wireshark, Metasploit, Burp Suite  
